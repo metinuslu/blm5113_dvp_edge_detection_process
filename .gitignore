@@ -1,3 +1,8 @@
+# Metin Uslu
+others
+*.tmp
+*.mp4
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
